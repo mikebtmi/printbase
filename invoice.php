@@ -20,7 +20,7 @@ include '_head.php';
               <div class="row">
                 <div class="one fifth right-four">
                   <h3>Mock Up</h3>
-                  <input type="file">File</input>
+                  <input type="file"></input>
                 </div>
                 <div class="four fifths left-one">
                   name the design or choose existing design
@@ -71,7 +71,7 @@ include '_head.php';
                       <input type="file" id="file" placeholder="Separtion File">
                     </div>
                   </div>
-                  <div class="button padded"><i class="icon-plus"></i> Add Screen</div>
+                  <div class="button padded"><i class="icon-plus"></i> Add Screen</div><br>
                   <div class="button padded"><i class="icon-plus"></i> Add Placement</div>
                     <hr>
                   <h3>Garments</h3>
