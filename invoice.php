@@ -75,7 +75,7 @@ include '_head.php';
                   <div class="button padded"><i class="icon-plus"></i> Add Placement</div>
                     <hr>
                   <h3>Garments</h3>
-                    <br/> (with an x to delete) - style - color- price each
+                    <br/> (with an x to delete) - style - color (shows actual color from database- price each
                     sizes - qty - extra $ 
                     <div class="row">
                       <div class="one fourth padded mobile">
